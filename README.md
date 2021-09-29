@@ -5,7 +5,7 @@ HWID Spoofer tested on versions:
 *  Windows 10 1903 (18362.30 | Working
 *  Windows 10 18362.175) | Working
 *  Windows 7 Home Premium N & Home Premium | Working
-![obraz](https://user-images.githubusercontent.com/80784394/135306564-f38bcf83-88c0-4b08-ae67-964f9cc96359.png)
+![obraz](https://user-images.githubusercontent.com/80784394/135311790-96036331-9ca1-45fc-8170-432b22bcaf44.png)
 
 # Features
 
